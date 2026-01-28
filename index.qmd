@@ -104,11 +104,29 @@ Jun 2019 – Dec 2021
 ## Technical Skills
 
 ::: section-card
-**Programming & Analytics** - Python (Pandas, NumPy, NLP, ML) - R (Shiny, ggplot2, tidyverse, R Markdown) - SQL (MySQL) - SAS Viya
+**Programming & Analytics**
 
-**Tools & Platforms** - Streamlit - Tableau - Excel (VBA, Macros) - Blue Prism (RPA)
+-    Python (Pandas, NumPy, NLP, ML)
 
-**Languages** - English - Mandarin (Native)
+-   RStudio(Shiny, ggplot2, tidyverse, R Markdown)
+
+-   SQL (MySQL)
+
+-   SAS Viya
+
+**Tools & Platforms**
+
+-   Tableau
+
+-   Excel (VBA, Macros)
+
+-   Blue Prism (RPA)
+
+**Languages**
+
+-   English
+
+-   Mandarin (Native)
 :::
 
 ## Contact
