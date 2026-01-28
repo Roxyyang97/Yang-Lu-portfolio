@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nYang Lu\n",
+    "section": "",
+    "text": "Data Analytics Intern | Financial Technology & Analytics Student @ SMU\n\n ⬇ Download Resume"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "\nYang Lu\n",
+    "section": "About Me",
+    "text": "About Me\n\nI am a graduate student in IT in Business (Financial Technology & Analytics) at Singapore Management University, with a strong foundation in data analytics, AI applications, and business problem-solving.\nMy background spans analytics consulting, NLP-driven automation, and large-scale project cost management, allowing me to bridge technical analysis with real-world decision-making.\nExpected graduation: April 2026\nLocation: Singapore"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "\nYang Lu\n",
+    "section": "Education",
+    "text": "Education\n\nSingapore Management University\nMaster of IT in Business (Financial Technology & Analytics)\nAug 2024 – Apr 2026\n\nFocus on data analytics, AI applications, and financial technology\n\nCoursework includes NLP, predictive modeling, visual analytics, and database systems\n\nSingapore Management University\nMaster of Science in Management\nAug 2022 – Apr 2024\n\nFocus on strategic decision-making and organisational analysis\n\nSingapore Institute of Management – RMIT University\nBachelor of Science in Construction Management\nJun 2019 – Dec 2021\n\nFocus on project coordination, cost management, and operational planning"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "\nYang Lu\n",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\n\nData Analytics Intern\nTalent Kraft Pte Ltd | Singapore\nJan 2025 – Apr 2025\n\nAnalysed 1,000+ employee engagement survey responses using Python (Pandas, NumPy) and built multiple linear regression models with VIF-based feature reduction.\nDesigned and deployed a GenAI-powered Streamlit web app using Claude API to automate qualitative survey analysis, classifying comments into 20+ HR themes with sentiment labels and structured JSON outputs.\nBuilt an NLP-based job-posting evaluation pipeline using TF-IDF, embeddings, and cosine similarity to validate role-competency alignment.\nProduced client-facing digital deliverables including styled reports, website mock-ups, and workshop materials.\n\n\n\nQuantity Surveyor\nChina Construction (South Pacific) Development Co. Pte Ltd | Singapore\nJun 2021 – Aug 2023\n\nManaged financial submissions, payment certifications, and cost tracking for a S$1.8B development project.\nCoordinated with 80+ vendors and suppliers, handling variations, contract drafting, and budget optimisation.\nPrepared financial forecasts, variation orders, and monthly claims to support executive-level decision-making."
+  },
+  {
+    "objectID": "index.html#academic-projects",
+    "href": "index.html#academic-projects",
+    "title": "\nYang Lu\n",
+    "section": "Academic Projects",
+    "text": "Academic Projects\n\n\nMalaysia Food Tourism — NLP & Sentiment Analytics\n\nProcessed 200K food tourism reviews using Python NLP pipelines.\nPerformed text cleaning, tokenisation, POS tagging, lemmatisation, and exploratory analysis.\nBuilt an LDA topic model with coherence score optimisation and inter-topic distance visualisation.\nApplied sentiment analysis using VADER, Naïve Bayes, and Logistic Regression.\nDeveloped a Priority Score framework to identify strategic improvement areas for Malaysia’s F&B ecosystem.\n\n\n\nAgricultural Yield Prediction for Bangladesh\n\nAnalysed 4,600+ crop–district observations to identify drivers of bumper harvests.\nEngineered climate stability features and research-based climatic indexes.\nBuilt and compared models in SAS Viya including Logistic Regression, Random Forest, Gradient Boosting, and SVM.\nEvaluated performance using F1-score, precision, recall, and AUC.\n\n\n\nVisual Analytics — VAST Challenge 2025\nProject Dashboard: https://covertreef.netlify.app\n\nConducted EDA and IDEA using R (tidyverse, ggplot2) to analyse temporal communication patterns.\nApplied network analysis (visNetwork, ggraph) to identify influence pathways and hidden relationships.\nBuilt an interactive Shiny dashboard deployed via Netlify for investigative storytelling.\nIntegrated temporal, network, and topic-based signals to assess suspicious behaviour."
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "\nYang Lu\n",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nProgramming & Analytics - Python (Pandas, NumPy, NLP, ML) - R (Shiny, ggplot2, tidyverse, R Markdown) - SQL (MySQL) - SAS Viya\nTools & Platforms - Streamlit - Tableau - Excel (VBA, Macros) - Blue Prism (RPA)\nLanguages - English - Mandarin (Native)"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "\nYang Lu\n",
+    "section": "Contact",
+    "text": "Contact\n\n📧 Email: ylu60822@gmail.com\n🔗 LinkedIn: https://www.linkedin.com/in/yanglu97\n📍 Location: Singapore"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
