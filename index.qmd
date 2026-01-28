@@ -1,3 +1,4 @@
+
 ::::: hero-container
 ::: hero-image
 <img src="images/profile.jpg" alt="Yang Lu"/>
@@ -12,7 +13,10 @@ Data Analytics Intern \| Financial Technology & Analytics Student \@ SMU
 
 </p>
 
-<a class="resume-btn" href="assets/Yang_Lu_cv.pdf" download> ⬇ Download Resume </a>
+<a class="resume-btn" href="images/Yang_Lu_cv.pdf" download>
+⬇ Download Resume
+</a>
+
 :::
 :::::
 
