@@ -64,7 +64,3 @@ Developed a dynamic financial decision model integrating pricing strategy, deman
 - VBA automation for scenario analysis  
 - Dynamic P&L forecasting dashboard  
 
-
-
-
----
