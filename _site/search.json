@@ -81,6 +81,10 @@
     "href": "project.html#pricing-pl-financial-model",
     "title": "Projects",
     "section": "3️⃣ Pricing & P&L Financial Model",
+<<<<<<< HEAD
     "text": "3️⃣ Pricing & P&L Financial Model\nExcel + VBA — Retail Strategy & Profit Optimisation\nDeveloped a dynamic financial decision model integrating pricing strategy, demand forecasting, and profit optimisation.\n\nKey Highlights\n\nPrice elasticity modelling\n\nMonte Carlo simulation (RAND, NORM.INV)\n\nBreak-even optimisation using Solver\n\nVBA automation for scenario analysis\n\nDynamic P&L forecasting dashboard"
+=======
+    "text": "3️⃣ Pricing & P&L Financial Model\nExcel + VBA — Retail Strategy & Profit Optimisation\nDeveloped a dynamic financial decision model integrating pricing strategy, demand forecasting, and profit optimisation.\n\nKey Highlights\n\nPrice elasticity modelling\n\nMonte Carlo simulation (RAND, NORM.INV)\n\nBreak-even optimisation using Solver\n\nVBA automation for scenario analysis\n\nDynamic P&L forecasting dashboard\n\n\n\nDownload Model\n⬇ Download Excel Model{download}"
+>>>>>>> 0adca4b20b360ad13422036881699f654f75a017
   }
 ]

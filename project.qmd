@@ -63,8 +63,5 @@ Developed a dynamic financial decision model integrating pricing strategy, deman
 - Break-even optimisation using Solver  
 - VBA automation for scenario analysis  
 - Dynamic P&L forecasting dashboard  
-
-
-
-
 ---
+
