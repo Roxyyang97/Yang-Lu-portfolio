@@ -2,8 +2,9 @@
 title: "Projects"
 format:
   html:
-    toc: false
     theme: cosmo
+    toc: false
+---
 
 ## 1️⃣ SQL Database & Schema Design  
 **Manufacturing & Service Workflow System**

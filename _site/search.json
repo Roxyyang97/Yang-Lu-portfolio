@@ -60,7 +60,7 @@
     "href": "project.html",
     "title": "Projects",
     "section": "",
-    "text": "Manufacturing & Service Workflow System\nDesigned and implemented a relational database supporting operational tracking and financial reporting.\n\n\n\nEnd-to-end Entity–Relationship modelling\n\nSchema normalisation (3NF)\n\nPrimary and foreign key architecture\n\nComposite keys and referential integrity\n\nStored procedures and triggers\n\nBusiness-driven analytical queries\n\n\n\n\n\n\n\n\n\n\nR Shiny — VAST Challenge: Covert Reef\nBuilt an interactive investigative analytics dashboard for anomaly detection, network analysis, and temporal pattern investigation.\n🔗 Live App:\nLaunch Dashboard\n\n\n\nInteractive network visualisation\n\nTemporal filtering and dynamic exploration\n\nSuspicious behaviour detection\n\nDeployable web-based dashboard\n\n\n\n\n\n\n\n\n\n\n\nExcel + VBA — Retail Strategy & Profit Optimisation\nDeveloped a dynamic financial decision model integrating pricing strategy, demand forecasting, and profit optimisation.\n\n\n\nPrice elasticity modelling\n\nMonte Carlo simulation (RAND, NORM.INV)\n\nBreak-even optimisation using Solver\n\nVBA automation for scenario analysis\n\nDynamic P&L forecasting dashboard\n\n\n\n\n⬇ Download Excel Model{download}"
+    "text": "Manufacturing & Service Workflow System\nDesigned and implemented a relational database supporting operational tracking and financial reporting.\n\n\n\nEnd-to-end Entity–Relationship modelling\n\nSchema normalisation (3NF)\n\nPrimary and foreign key architecture\n\nComposite keys and referential integrity\n\nStored procedures and triggers\n\nBusiness-driven analytical queries"
   },
   {
     "objectID": "project.html#sql-database-schema-design",
@@ -73,14 +73,14 @@
     "objectID": "project.html#investigative-analytics-dashboard",
     "href": "project.html#investigative-analytics-dashboard",
     "title": "Projects",
-    "section": "",
-    "text": "R Shiny — VAST Challenge: Covert Reef\nBuilt an interactive investigative analytics dashboard for anomaly detection, network analysis, and temporal pattern investigation.\n🔗 Live App:\nLaunch Dashboard\n\n\n\nInteractive network visualisation\n\nTemporal filtering and dynamic exploration\n\nSuspicious behaviour detection\n\nDeployable web-based dashboard"
+    "section": "2️⃣ Investigative Analytics Dashboard",
+    "text": "2️⃣ Investigative Analytics Dashboard\nR Shiny — VAST Challenge: Covert Reef\nBuilt an interactive investigative analytics dashboard for anomaly detection, network analysis, and temporal pattern investigation.\n🔗 Live App:\nLaunch Dashboard\n\nKey Highlights\n\nInteractive network visualisation\n\nTemporal filtering and dynamic exploration\n\nSuspicious behaviour detection\n\nDeployable web-based dashboard\n\n\n\nEmbedded Dashboard"
   },
   {
     "objectID": "project.html#pricing-pl-financial-model",
     "href": "project.html#pricing-pl-financial-model",
     "title": "Projects",
-    "section": "",
-    "text": "Excel + VBA — Retail Strategy & Profit Optimisation\nDeveloped a dynamic financial decision model integrating pricing strategy, demand forecasting, and profit optimisation.\n\n\n\nPrice elasticity modelling\n\nMonte Carlo simulation (RAND, NORM.INV)\n\nBreak-even optimisation using Solver\n\nVBA automation for scenario analysis\n\nDynamic P&L forecasting dashboard\n\n\n\n\n⬇ Download Excel Model{download}"
+    "section": "3️⃣ Pricing & P&L Financial Model",
+    "text": "3️⃣ Pricing & P&L Financial Model\nExcel + VBA — Retail Strategy & Profit Optimisation\nDeveloped a dynamic financial decision model integrating pricing strategy, demand forecasting, and profit optimisation.\n\nKey Highlights\n\nPrice elasticity modelling\n\nMonte Carlo simulation (RAND, NORM.INV)\n\nBreak-even optimisation using Solver\n\nVBA automation for scenario analysis\n\nDynamic P&L forecasting dashboard\n\n\n\nDownload Model\n⬇ Download Excel Model{download}"
   }
 ]
