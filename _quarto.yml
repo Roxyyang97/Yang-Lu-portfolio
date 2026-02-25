@@ -7,13 +7,16 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/yanglu97
+      - icon: envelope
+        href: mailto:ylu60822@gmail.com
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
-    toc: true
-    toc_float: true
-    highlight: tango
-
-editor: source
+    toc: false
