@@ -7,7 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: project.qmd
+      - href: projects.qmd
         text: Projects
     right:
       - icon: linkedin
