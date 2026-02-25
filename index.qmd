@@ -100,7 +100,7 @@ Jun 2019 – Dec 2021
 -   Built an interactive Shiny dashboard deployed via Netlify for investigative storytelling.
 -   Integrated temporal, network, and topic-based signals to assess suspicious behaviour.
 
-### **Operational Data Modeling
+### Operational Data Modeling
 
 -   Designed a relational data model for a manufacturing and after-sales service environment by translating detailed business rules into a complete Entity-Relationship (ER) diagram, defining entities, attributes, cardinalities, and data integrity constraints.
 
@@ -114,7 +114,7 @@ Jun 2019 – Dec 2021
 
 -   Strengthened technical skills in relational schema design, SQL optimisation, data quality control, and building database solutions that support end-to-end operations in a manufacturing-style service and maintenance workflow.
 
-### **Pricing Strategy & Financial Modelling for Retail Business
+### Pricing Strategy & Financial Modelling for Retail Business
 
 -   Built end-to-end spreadsheet-based decision models to evaluate pricing, demand elasticity, customer behaviors, and profitability in a competitive market.
 
